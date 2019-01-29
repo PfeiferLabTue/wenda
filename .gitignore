@@ -1,0 +1,7 @@
+.Renviron
+*__pycache__*
+*.Rhistory
+*.log
+*.png
+*.csv
+*.Rout
